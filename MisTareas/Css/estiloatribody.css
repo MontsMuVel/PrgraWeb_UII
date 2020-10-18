@@ -1,0 +1,42 @@
+body {
+    background-color: hsl(259, 14%, 53%);
+    font-family: sans-serif;
+}
+
+h1 {
+    font-size: 3rem;
+    text-align: center;
+    text-decoration: underline;
+    text-transform: uppercase;
+}
+
+h2 {
+    background-color: hsl(297, 36%, 37%);
+    font-size: 2rem;
+}
+
+h3 {
+    background-color: hsl(333, 40%, 41%);
+    font-size: 1.5rem;
+}
+
+p {
+    text-align: justify;
+    
+}
+
+blockquote {
+    font-style: oblique;
+}
+
+pre {
+    background-color: rgb(241, 128, 162);
+    font-size: 1rem;
+    font-weight: bold;
+}
+
+address {
+    font-family: serif;
+    font-style: normal;
+    text-align: right;
+}

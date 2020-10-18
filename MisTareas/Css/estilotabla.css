@@ -1,0 +1,31 @@
+
+    #evolucion {
+        font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+        border: 1px solid black;
+        width: 90%;
+    }
+    
+    #evolucion td, th{
+        border: 2px solid black(7, 7, 7);
+        padding: 8px;
+    }
+    
+    #evolucion tr:nth-child(even){background-color: #f47932;}
+    
+    #evolucion tr:hover {background-color: #d7d7c4;}
+    
+    #evolucion th {
+        padding-top: 12px;
+        padding-bottom: 12px;
+        text-align: left;
+        background-color: #fa0909;
+        color: white;
+        font-size: 150%;
+    }
+    #especial {
+        background-color: whitesmoke;
+    }
+    #especial2{
+        background-color: #f47932;}
+
+    }
